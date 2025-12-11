@@ -1,6 +1,14 @@
-# 🌸 Iris Regression & Classification (DDS 8551)
+# 🌸 Iris Regression & Classification
 
 This project explores the classic Iris dataset using both **regression** and **classification** models, with a custom **pink–purple visualization theme**.
+---
+
+### 🔗 **Download My Resume**
+<a href="./Evaluation-of-Regression-and-Classifier-Metrics.pdf" download>
+  <img src="https://img.shields.io/badge/📥_Download_Resume-PDF-blue?style=for-the-badge" alt="Download Resume Badge"/>
+</a>
+
+---
 
 The work is implemented in a Jupyter notebook and includes:
 
