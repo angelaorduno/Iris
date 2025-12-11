@@ -3,7 +3,7 @@
 This project explores the classic Iris dataset using both **regression** and **classification** models, with a custom **pink–purple visualization theme**.
 ---
 
-### 🔗 **Predictive Analysis: Evaluation of Regression and Classifier Metrics **
+## 🔗 Predictive Analysis: Evaluation of Regression and Classifier Metrics
 <a href="./Evaluation-of-Regression-and-Classifier-Metrics.pdf" download>
   <img src="https://img.shields.io/badge/📥_Download_Report-PDF-ff8ad4?style=for-the-badge&logoColor=white&labelColor=b57bff" alt="Download Report Badge"/>
 </a>
