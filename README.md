@@ -36,11 +36,5 @@ The work is implemented in a Jupyter notebook and includes:
     - Accuracy score.
     - Classification report.
     - Confusion matrix heatmap using the pink–purple colormap.
-
-- 🎨 **Custom visualization theme**
-  - A reusable **pink–purple colormap** defined with:
-    - `#FFC0CB`, `#FF69B4`, `#C71585`, `#8B008B`
-  - Used consistently across plots (bar charts, regression plots, heatmaps, 3D surfaces).
-
 ---
 
