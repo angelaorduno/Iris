@@ -37,16 +37,3 @@ The work is implemented in a Jupyter notebook and includes:
 
 ---
 
-## 🗂 Project Structure
-
-```text
-dds8551-iris-ml/
-├── README.md
-├── requirements.txt
-├── .gitignore
-├── notebooks/
-│   └── AngelaDiaz_DDS8551_Assignment1.ipynb
-└── src/
-    ├── metrics.py
-    └── plotting_theme.py
-
