@@ -1,6 +1,6 @@
 # 🌸 Iris Regression & Classification
 
-This project explores the classic Iris dataset using both **regression** and **classification** models, with a custom **pink–purple visualization theme**.
+This project explores the classic Iris dataset using both **regression** and **classification** models, with a custom **pink–purple visualization theme.
 ---
 
 ## 🔗 Predictive Analysis: Evaluation of Regression and Classifier Metrics
